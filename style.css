@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#logo {
+    background-color: #c80000;
+    color: white;
+}
+
+h1 {
+    color: #fff;
+    background-color: #c80000;
+}
+
+#title {
+    background-color: #666666;
+    color: #fff;
+    text-align: center;
+}
+
+h2 {
+    background-color: #fff;
+    color: #000;
+    display: flex;
+}
+
+footer {
+    background-color: #666;
+    color: #fff;
+    text-align: center;
+}
